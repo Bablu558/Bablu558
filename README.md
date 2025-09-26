@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bablu558.github.io/MY-PORTFOLIO/](https://bablu558.github.io/MY-PORTFOLIO/)
 
-- 💬 Ask me about **Html,Css,Javascript,DSA,C,C++**
+- 💬 Ask me about **Html,Css,Javascript,Java, SQL**
 
 - 📫 How to reach me **kumarbablu03240@gmail.com**
 
