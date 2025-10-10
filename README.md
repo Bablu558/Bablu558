@@ -19,8 +19,10 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bablu558&show_icons=true&locale=en&layout=compact" alt="bablu558" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bablu558&show_icons=true&locale=en" alt="bablu558" /></p> -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bablu558&show_icons=true&locale=en&cache_buster=300" alt="bablu558" /></p>
+<p align="center">
+  <img src="https://github-contributions-api.jogruber.de/v1/Bablu558?anon=true&amp;title=GitHub+Contributions&amp;format=svg&amp;days=365&amp;max=500" alt="Bablu558's GitHub Contributions" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bablu558&show_icons=true&locale=en&layout=compact&cache_buster=300" alt="bablu558" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bablu558&show_icons=true&locale=en&layout=compact" alt="bablu558" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bablu558&" alt="bablu558" /></p>
