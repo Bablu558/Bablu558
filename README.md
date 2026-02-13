@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0F2027&height=200&section=header&text=Bablu%20Kumar&fontSize=40&fontColor=00FFFF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=200&section=header&text=Bablu%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
+
 
 
 <h2 align="center">Full Stack Developer | Spring Boot & MERN Stack</h2>
