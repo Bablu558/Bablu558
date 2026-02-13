@@ -1,47 +1,75 @@
-<div align="center">
-  <h1>Hey 👋 Bablu Kumar</h1>
-  <p>Full Stack Developer | Spring Boot & MERN | Problem Solver</p>
-  <img src="https://komarev.com/ghpvc?id=bablu558&style=flat&color=lightgreen" alt="Views" />
-</div>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Bablu%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
----
+<h2 align="center">Full Stack Developer | Spring Boot & MERN Stack</h2>
 
-## About
-Patna-based developer passionate about backend architecture and full-stack apps. Currently building with Spring Boot, REST APIs, and MERN stack. Improving DSA daily.
-
-**Portfolio:** [bablu-kumar.netlify.app](https://bablu-kumar.netlify.app/)
-
----
-
-## Tech Stack
-
-| Backend | Frontend | Database/Tools |
-|---------|----------|----------------|
-| Java Spring Boot Hibernate MySQL REST | React JS HTML CSS Tailwind Bootstrap | MongoDB Postman Git Docker |
-
----
-
-## 📈 Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bablu558&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bablu558&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" />
-</div>
-
----
-
-## Working On
-- Spring Security & Clean Architecture
-- RESTful CRUD APIs
-
----
-
-<div align="center">
-  <a href="https://linkedin.com/in/bablu-kumar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+<p align="center">
+  <a href="https://bablu-kumar.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge" />
   </a>
   <a href="mailto:your-email">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
   </a>
-</div>
+</p>
 
-**Consistency + Clean Code = Growth 🚀**
+---
+
+## 👨‍💻 Professional Summary
+
+Backend-focused Full Stack Developer with hands-on experience in building secure REST APIs, CRUD systems, and scalable web applications using **Spring Boot & MERN stack**.
+
+- Strong understanding of **OOP, MVC Architecture & REST Principles**
+- Experience with **Authentication, Authorization & Security**
+- Currently exploring **System Design & Clean Architecture**
+- Consistent GitHub contributor
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+`Java` `Spring Boot` `Spring Security` `Hibernate` `REST APIs` `MySQL` `MongoDB`
+
+### Frontend
+`React` `JavaScript` `HTML` `CSS` `Tailwind` `Bootstrap`
+
+### Tools
+`Git` `GitHub` `Docker` `Postman`
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bablu558&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bablu558&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bablu558&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- Building Production-ready Spring Boot Applications
+- Implementing Secure Authentication Systems
+- Improving Backend Architecture Design
+- Writing Cleaner & Maintainable Code
+
+---
+
+## 📫 Connect
+
+- 🌐 Portfolio: https://bablu-kumar.netlify.app/
+- 💼 LinkedIn: (add your link here)
+- 📧 Email: (add your email here)
+
+---
+
+<p align="center">
+  <i>"Discipline > Motivation. Consistency builds mastery."</i>
+</p>
