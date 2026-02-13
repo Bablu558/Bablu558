@@ -53,6 +53,11 @@ Backend-focused Full Stack Developer with hands-on experience in building secure
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bablu558&theme=github-dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/2026_Contributions-XX-blue?style=for-the-badge" />
+</p>
+
+
 ---
 
 ## 🚀 Current Focus
