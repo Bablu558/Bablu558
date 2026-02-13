@@ -44,14 +44,24 @@ Backend-focused Full Stack Developer with hands-on experience in building secure
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bablu558&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bablu558&theme=github-dark&hide_border=true" />
+  <!-- Overall Stats -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bablu558&show_icons=true&theme=github_dark&hide_border=true" />
+
+  <!-- Current Year Stats -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bablu558&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=false&custom_title=2026%20Contributions" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bablu558&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bablu558&theme=github-dark&hide_border=true" />
 </p>
+
 
 ---
 
