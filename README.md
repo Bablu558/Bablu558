@@ -1,12 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Bablu%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:16213E&height=200&section=header&text=Bablu%20Kumar&fontSize=40&fontColor=00E5FF&animation=fadeIn" />
 </p>
 
 <h2 align="center">Full Stack Developer | Spring Boot & MERN Stack</h2>
 
 <p align="center">
-  <a href="https://bablu-kumar.netlify.app/">
+  <a href="https://bablukumar.online">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge" />
   </a>
   <a href="mailto:your-email">
