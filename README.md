@@ -54,7 +54,7 @@ Backend-focused Full Stack Developer with hands-on experience in building secure
 ---
 
 ## 🚀 Current Focus
-
+- Learning Spring Boot
 - Building Production-ready Spring Boot Applications
 - Implementing Secure Authentication Systems
 - Improving Backend Architecture Design
@@ -64,9 +64,9 @@ Backend-focused Full Stack Developer with hands-on experience in building secure
 
 ## 📫 Connect
 
-- 🌐 Portfolio: https://bablu-kumar.netlify.app/
-- 💼 LinkedIn: (add your link here)
-- 📧 Email: (add your email here)
+- 🌐 Portfolio: https://bablukumar.online
+- 💼 LinkedIn: https://www.linkedin.com/in/bablu-kumar-118755289/
+- 📧 Email:
 
 ---
 
